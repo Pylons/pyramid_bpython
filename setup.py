@@ -21,7 +21,7 @@ setup(
     description='pyramid bpython pshell',
     long_description=README,
     author='Michael Merickel',
-    author_email='michael@merickel.org',
+    author_email='pylons-discuss@googlegroups.com',
     url='https://github.com/Pylons/pyramid_bpython',
     classifiers=[
         "Development Status :: 4 - Beta",
